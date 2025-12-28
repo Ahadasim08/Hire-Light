@@ -1,0 +1,7 @@
+langgraph
+langchain-google-genai  # or langchain-google-genai
+fastapi
+uvicorn
+pydantic
+python-dotenv
+pymupdf          # For PDF parsing

@@ -44,7 +44,7 @@ The system orchestrates five specialized AI agents that work in a sequential pip
 
 ## 🛠️ Tech Stack
 * **AI Engine:** LangChain & Multi-Agent Orchestration.
-* **LLM Support:** Gemini API / Local Models (Mistral, Llama 3).
+* **LLM Support:** Local Models (Mistral, Llama 3).
 * **Backend:** Python & FastAPI.
 * **Frontend:** Next.js, React, & Tailwind CSS.
 
